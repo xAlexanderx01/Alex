@@ -9,7 +9,7 @@ http://190.149.66.90:16000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="DEPORTES | ESPN 1 MX" tvg-logo="http://78.47.174.211/logos/espn.png" group-title="DEPORTES",DEPORTES | ESPN 4 HD - MX]
 http://190.149.66.90:16000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports HD (ARG)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/123872
+https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
 #EXTINF:-i tvg-id="" tvg-name="Liga 1 Max (PE)" tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="LIVE | PERU",Liga 1 Max (PE)
 http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/93025
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (CL)
